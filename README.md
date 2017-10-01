@@ -3,8 +3,6 @@
 An Hello World example application that uses a Spring Java backend with a React
 frontend and can perform server-side rendering (SSR).
 
-## Another Boilerplate?
-
 Stripped back version created from the following project: 
 [spring-react-boilerplate](https://github.com/pugnascotia/spring-react-boilerplate)
 
