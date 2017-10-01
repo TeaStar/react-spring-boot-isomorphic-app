@@ -1,0 +1,25 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/node
+node_modules/
+src/main/resources/static/app/
+src/main/resources/static/js/render.js
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### ESLint ###
+.eslintcache
+
+.DS_Store
